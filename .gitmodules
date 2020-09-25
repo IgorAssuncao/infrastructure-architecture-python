@@ -1,3 +1,4 @@
 [submodule "PB_Infra_Architecture_Python"]
 	path = PB_Infra_Architecture_Python
 	url = https://github.com/IgorAssuncao/PB_Infra_Architecture_Python.git
+	branch = master
